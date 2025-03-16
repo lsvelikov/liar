@@ -1,0 +1,22 @@
+h1,
+h2,
+h3 {
+    text-align: center;
+    color: red;
+    font-size: 4em;
+}
+
+.photos p {
+    text-align: center;
+    color: red;
+    font-size: 2em;
+}
+
+.photos {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    width: 21em;
+}
